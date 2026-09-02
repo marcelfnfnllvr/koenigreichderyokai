@@ -14,3 +14,4 @@
 - die Welt magischer
 - Abenteuer basierend auf "echten" Yokai aber abstrahiert und erweiterte Yokai
 - Möglichkeit Proben zu erleichtern und zu erschweren
+- Equipment und Kampf wie bei Trophy Gold
