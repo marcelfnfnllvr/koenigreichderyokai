@@ -48,9 +48,15 @@ Wenn einer der Spielercharaktere zum ersten Mal Schaden nimmt, wird ihm folgende
 
 > Wie sieht der Yukata aus, den du trägst? Wie ist er kaputtgegangen?
 
-##### Abenteuerfrage:
+##### Fragestellung:
 
 Am Abend findet eine Yōkai-Parade statt, bei der Tänze und Kostüme präsentiert und die Geister gefeiert werden. Höhepunkt ist wie jedes Jahr ein gewaltiges Feuerwerk. Was soll dort Schreckliches passieren?
+
+Das innere Kind - Verspielt
+
+##### Abenteuerfrage:
+
+Wenn euere Charakter erstmal Erwachsen ist, welche Aufgabe übernimmt er dann auf dem Fest?
 
 #### Was auf dem Fest zu finden ist:
 
@@ -91,7 +97,13 @@ Die Samurai präsentieren sich in edlen Rüstungen und mit mächtigen Schwertern
 
 > Was beeindruckt euch besonders an den Samurai?
 
-Bogenschießen?
+##### Bogenschießen?
+
+Yumi - Langbögen, damit aus dem Knien geschossen werden kann.
+
+##### Wachtel Singwettbewerb
+
+During Japan's Edo Period (1603-1868), quail contests, particularly **singing competitions (Uta-awase)**, were popular pastimes, enjoyed across social classes for their beautiful bird songs, a cultural activity flourishing alongside other arts like ukiyo-e prints which depicted these events, showcasing a shared love for animals even transcending rigid social barriers. People kept quail for their songs and appearance, with owners gathering to compare their birds' calls in festive, integrated settings, notes TOKYO UPDATES
 
 #### Yōkai auf dem Fest:
 
@@ -111,7 +123,7 @@ Sie haben blaue Haut und nur ein riesiges Auge in der Mitte des Kopfes. Sie sind
 
 ##### Shōgorō - der belebte Gong
 
-Ein etwa kellergroßer Gong, der in buddhistischen Zeremonien genutzt wird. Die Gruppe kann beobachten, dass die Mönche dort alle einen bei sich tragen, diese sich aber immer selber schlagen und die geschlagen werden.
+Ein etwa Tellergroßer Gong, der in buddhistischen Zeremonien genutzt wird. Die Gruppe kann beobachten, dass die Mönche dort alle einen bei sich tragen, diese sich aber immer selber schlagen und die geschlagen werden.
 
 ##### Kodama - die tanzenden Geister
 
@@ -146,6 +158,28 @@ Nordländler?
 Es ist eine ältere, gebückt gehende Frau, die mit ihrem Verkaufswagen durch die Besuchermenge zieht. Sie verkauft Noh-Masken an die älteren Besucher und verschenkt spezielle Noh-Masken an die jüngeren. Sie sagt immer, dass sie die Masken von den Göttern geschenkt bekommt und dass sie sie gar nicht selbst herstellt. Wenn die Spielenden eine der Masken aufsetzen, erhalten sie für diese Zeit eine zufällige Fähigkeit.
 
 > Wie sieht die Maske aus, die ihr bekommen habt?
+
+##### Name für Charaktere:
+
+- Kiso Chikanaga
+- Minamoto Yukifusa
+- Fujita Ieharu
+  - Händler mit Gemüse. Unter anderem Wasabi Pflanzen in Wasser gelegt.
+
+- Murata Terutomo
+- Ukita Hidenari
+  - Übermütiger Tengu der
+
+- Asano Nagakore
+  - Kaninchen liebender Samurai.
+  - Hat Fior eingeladen mal ein Schwert zu halten, dafür das er ein gebratenes Kaninchen bringt.
+
+- Ise Iesuke
+- Bito Ietomo
+  - Arschlochkind und Sohn vom
+
+- Shiba Aritame
+- Ii Sukenaga
 
 ##### Hinweise:
 
