@@ -27,3 +27,9 @@
     - Freies Spiel
     - Lagerfeuer
     - Die Reise
+- entkoppeln der Hinweise vom Kämpfen?
+    - immer wenn es einen Hinweis gibt dann gibt es auch einen Verderbnispunkt
+      - verhindert die Doppelbestrafung bei Würfelpech
+    - Belohnung für die Kämpfe sind Gummipunkte die für Würfel aber auch zum reparieren von Equipment geutzt werden können
+- Gefährliche Sitationen färben Würfel im Pool schwarz
+    - oder Zustände färben Würfel im Pool schwarz

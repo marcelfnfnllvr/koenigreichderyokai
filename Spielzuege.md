@@ -11,9 +11,15 @@ Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu 
 >[7. Hilfe anbieten](#der-hilfe-anbieten-spielzug)  
 >[8. Abenteuer lösen](#der-das-abenteuer-l%C3%B6sen-spielzug)
 
-## Der „Etwas herausfinden“ Spielzug
+## Der „Mit etwas interagieren“ Spielzug
 
 Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du erhältst dafür einen weißen Würfel.
+
+- 1-4 Ein Fehlschlag verschlechtert die Situation.
+- 5 Du erreichst dein Ziel, aber es gibt eine Komplikation.
+- 6 Du erreichst dein Ziel.
+
+ad
 
 - 1&1 Die Spielleitung erhält einen zusätzlichen Verderbnispunkt.
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
@@ -122,12 +128,12 @@ Ablauf eines Kampfes:
    4. Wenn das Ergebnis der beiden besten W6 Kampfwürfel nicht mindestens so hoch ist wie die Gefahrenstufe des Gegners, beginnt eine neue Kampfrunde. Die Person mit dem höchsten Kampfwürfelergebnis aus dem Kampfwurf der vorherigen Runde erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachpunkten. Wenn mehrere Mitspielende die höchste Augenzahl geworfen haben, ist es der SL überlassen, ob dafür alle Mitspielenden einen weiteren W6 bekommen oder nicht. Sollte der Charakter mit der höchsten Augenzahl im Kampf außer Gefecht gesetzt werden, verfallen seine zusätzlichen Kampfwürfel.
    5. Dieser Vorgang wird wiederholt, bis der Gegner besiegt ist. Für die ersten drei Kampfrunden erhält die Gruppe je absolvierter Runde einen Hinweis, nachdem sie den Kampf erfolgreich beendet hat.
 
-*Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
+   *Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
 
-*Was passiert wenn im Kampf die gesamte Gruppe außer Gefecht gesetzt wird?  
-In diesem Fall können sich die Charaktere nicht mehr gegenseitig durch einen "Etwas riskieren"-Spielzug zurückholen. Trotzdem sterben die Charaktere nicht. Je nachdem wie es in eure Geschichte passt, könnten sie beispielsweise in Gefangenschaft aufwachen und müssen sich erst befreien. Oder ein freundlicher NSC findet sie und bringt sie zu sich nach Hause oder zurück dorthin, wo sie übernachten. Natürlich müssen alle Charaktere am Ende der Szene die Regel "Außer Gefecht gesetzt" abhandeln.*
+   *Was passiert wenn im Kampf die gesamte Gruppe außer Gefecht gesetzt wird?  
+   In diesem Fall können sich die Charaktere nicht mehr gegenseitig durch einen "Etwas riskieren"-Spielzug zurückholen. Trotzdem sterben die Charaktere nicht. Je nachdem wie es in eure Geschichte passt, könnten sie beispielsweise in Gefangenschaft aufwachen und müssen sich erst befreien. Oder ein freundlicher NSC findet sie und bringt sie zu sich nach Hause oder zurück dorthin, wo sie übernachten. Natürlich müssen alle Charaktere am Ende der Szene die Regel "Außer Gefecht gesetzt" abhandeln.*
 
-[Zurück nach oben](#spielz%C3%BCge)
+   [Zurück nach oben](#spielz%C3%BCge)
 
 ## Der „Hilfe anbieten“ Spielzug
 

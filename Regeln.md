@@ -23,15 +23,27 @@ Die Spielenden versuchen, durch Spielzüge Hinweise zu sammeln und diese am Ende
 
 Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Bei bestimmten Spielzügen werden die Attributs- und Gegenstandswürfel durch den Fähigkeitswürfel ersetzt. Dieser kann ebenfalls weiß oder schwarz sein. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einmalig einsetzen kannst. Für einen Spielzug kann dabei aber höchstens ein Bonuswürfel eingesetzt werden, nicht mehrere auf einmal. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
 
-- 1W6 [Spielzug - Weiß oder Schwarz]  
+- 1W6 [Emblem]  
+- 1W6 [Attribut]  
+- 1W6 [Gegenstand]  
+- 2W6 [Fähigkeit]
+- 1W6 [Bonuswürfel]  
 
-- 1W6 [Attribut oder Gegenstand - Weiß oder Schwarz]  
-  - 1W6 [Angst oder Zustand - Schwarz]  
-  - oder
-  - 1W6 [Fähigkeit - Weiß oder Schwarz]  
-- 1W6 [Bonuswürfel - Weiß]  
 
-- 1W6 [Den Wurf Verbessern - Schwarz]
+
+- 1W6 [Spielzug]  
+
+- 1W6 aus Emblem, Attribut oder Gegenstand
+
+  - 1W6 [Emblem]  
+  - 1W6 [Attribut]  
+
+  - 1W6 [Gegenstand]  
+
+- 2W6 [Fähigkeit]
+- 1W6 [Bonuswürfel]  
+
+
 
 >[Nach oben](Regeln)
 
