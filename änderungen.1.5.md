@@ -1,10 +1,14 @@
 #### Ziele der 1.5
 
 - Vereinfachung der Regeln
+    - Etwas herausfinden, etwas riskieren und eine Fähigkeit einsetzen als einen Spielzug definieren
 - besser moglichkeit zur Individualisierung 
 - mehr Mitgestaltung der Welt
+    - gemeinsame Karte
+    - Orte und NSCs setzen
 - mehr Struktur und Weltgebung von Anfang an  - Übergreifende Kampagne, die auf 6-9 Abenteuer ausgelegt ist. 
 - Längere Abenteuermöglichkeite
+    - Abenteuer die Zwischenfrage haben die es zu beantworten gilt
 - Im Kampf Schere, Stein & Papier System für mehr Vielfalt?
     - Waffen die einem Typ besitzen und Würfel von 1d6 bis 3d6
 - Wiederkehrende NSC
@@ -12,6 +16,10 @@
     - Sind sie zb ein offizieller Orden oder einfach aufopferungsvolle Wandernede
     - Werden sie in der Welt mehrheitlich positiv oder negativ gesehen?
 - die Welt magischer
+    - Yokai sind mehr Teil der Welt.
+        - Baumgeister helfen dabei kranke Bäume frühzeitig zu fällen.
 - Abenteuer basierend auf "echten" Yokai aber abstrahiert und erweiterte Yokai
 - Möglichkeit Proben zu erleichtern und zu erschweren
 - Equipment und Kampf wie bei Trophy Gold
+    - Boni bei wiederkehrenden Monstern?
+- Gruppenwürfe um besonders schwere Aufgaben zu lösen?
