@@ -23,3 +23,7 @@
 - Equipment und Kampf wie bei Trophy Gold
     - Boni bei wiederkehrenden Monstern?
 - Gruppenwürfe um besonders schwere Aufgaben zu lösen?
+- Spielphasen klarer trennen?
+    - Freies Spiel
+    - Lagerfeuer
+    - Die Reise
